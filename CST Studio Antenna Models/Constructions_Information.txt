@@ -1,0 +1,5 @@
+Information 
+
+- Open *_base.cst model in CST Studio Suite
+- Go to Schematic view
+- Execute construction1 macro
