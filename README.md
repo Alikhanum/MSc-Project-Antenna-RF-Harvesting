@@ -1,2 +1,2 @@
 # MSc-Project-Antenna-RF-Harvesting
-Antenna for Ambient RF Energy Harvesting
+Some CST antenna models that I tried to make for my MSc Project
